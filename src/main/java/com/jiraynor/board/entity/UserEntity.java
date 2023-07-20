@@ -2,9 +2,9 @@ package com.jiraynor.board.entity;
 
 import com.jiraynor.board.dto.SignUpDto;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.Id;
-import jakarta.persistence.Table;
+import javax.persistence.Entity;
+import javax.persistence.Id;
+import javax.persistence.Table;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
